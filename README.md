@@ -1,6 +1,6 @@
 # Angular 入门教程 Tour of Heroes
 
-(https://angular.cn/tutorial)
+[教程网址](https://angular.cn/tutorial)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
 
